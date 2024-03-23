@@ -15,7 +15,6 @@ HTML Canvas API: Used for drawing and rendering graphics on the web page.
 Getting Started
 To get started with the Whiteboard Web App locally, follow these steps:
 
-Clone the repository: git clone [insert GitHub repository URL]
 Navigate to the project directory: cd whiteboard-web-app
 Install dependencies: npm install
 Start the development server: npm start
